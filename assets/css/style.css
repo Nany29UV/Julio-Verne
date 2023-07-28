@@ -1,0 +1,64 @@
+.container{
+    text-align: justify !important;
+    display: table;
+    color: darkolivegreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    background-color: darkolivegreen !important;
+    color: white !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    margin: auto auto;
+    display: table;
+    border-radius: 5%;
+}
+
+.card{
+    margin: auto auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: olivedrab;
+}
+
+h2{
+    text-align: center;
+    color: olivedrab;
+    
+}
+
+footer{
+    color: white !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+hr{
+    border: none;
+    color: rgb(112, 122, 22);
+    height: 3.5px;
+    background-color: rgb(112, 122, 22);
+}
+
+.social{
+    background-color: darkolivegreen;
+}
+
+.social i{
+    margin: 22px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.contacto{
+    text-align: center;
+    margin: auto auto;
+}
